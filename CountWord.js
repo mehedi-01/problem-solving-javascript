@@ -1,0 +1,1 @@
+var word = ' i love cat. i am good person'
